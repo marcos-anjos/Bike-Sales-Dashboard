@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Venda de Biciletas Dashboard </h1>
+    <h1>Venda de Bicicletas Dashboard </h1>
     
   <img src="https://github.com/marcos-anjos/Bike-Sales-Dashboard/assets/160321440/746c608d-0f86-4bbe-b855-3c95ebf57be3" />
 
